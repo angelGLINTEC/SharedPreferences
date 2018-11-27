@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+    <string name="txtViewStr_MAIL">Introduce tu correo</string>
+    <string name="btnStr_LOGIN">Log In</string>
+</resources>
